@@ -1,3 +1,3 @@
 # Portfolio
 
-https://app.netlify.com/sites/lighthearted-begonia-dffe20/overview
+https://lighthearted-begonia-dffe20.netlify.app/
